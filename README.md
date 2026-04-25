@@ -21,3 +21,10 @@ mv mkdf ~/bin/
 
 Make sure that ~/bin is included in your PATH.
 
+
+## Quick Install
+
+```bash
+curl -O https://raw.githubusercontent.com/maruta-engineer/mkdf/main/mkdf
+chmod +x mkdf
+mv mkdf ~/bin/
